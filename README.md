@@ -19,11 +19,11 @@ Data source : https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales
 <h1><a name="projectobjectives">Key Responsibilities</a></h1>
 
 - Conducted detailed data analysis to uncover sales trends and customer behavior insights.
-- Developed SQL queries to answer key business questions related to product and city-level performance.
-- Cleaned and preprocessed raw data for accurate analysis and visualization.
-- Utilized advanced SQL techniques, including joins, aggregations, and window functions, to extract insights.
-- Created data visualizations to communicate findings on revenue, product demand, and customer segmentation.
-- Generated actionable recommendations based on data-driven insights to support business strategy.
+- Analyze the total revenue generated from coffee sales across all cities in the last quarter of 2023.
+- Identify the top 3 selling products in each city based on sales volume.
+- Identify the unique customers are there in each city who have purchased coffee products.
+- Find each city and their average sale per customer and avg rent per customer.
+- Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated coffee consumer.
 
 
  <h1><a name="Tools and Technologies">Tools and Technologies</a></h1>
