@@ -5,8 +5,7 @@
 
 
 <h1><a name="projectobjectives">Data Source</a></h1>
-<p>The dataset used in this project is sourced from Kaggle and contains information on customer purchases, product sales data. This dataset provides a foundation for analyzing sales trends, customer preferences and market demand across various locations.
- 
+<p>The dataset used in this project is sourced from Kaggle and contains information on customer purchases, product sales data. This dataset provides a foundation for analyzing sales trends, customer preferences and market demand across various locations. 
 Data source : https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales
  
 </p>
