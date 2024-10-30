@@ -6,6 +6,7 @@
 
 <h1><a name="projectobjectives">Data Source</a></h1>
 <p>The dataset used in this project is sourced from Kaggle and contains information on customer purchases, product sales data. This dataset provides a foundation for analyzing sales trends, customer preferences and market demand across various locations.
+ 
 Data source : https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales
  
 </p>
@@ -13,7 +14,7 @@ Data source : https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales
 
 <h1><a name="projectobjectives">Project Structure</a></h1>
 
-- schemas.sql:</b> SQL file defining database schemas and table structures used in the project.
+- Schemas.sql:</b> SQL file defining database schemas and table structures used in the project.
 - README.md: Project overview and instructions for usage.
 
 <h1><a name="projectobjectives">Key Responsibilities</a></h1>
